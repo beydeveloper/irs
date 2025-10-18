@@ -1,5 +1,5 @@
 # irs
-IRS V1 Windows Tool
+IRS V1.0 Windows Tool
 
 
 Türkçe:
