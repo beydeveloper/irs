@@ -1,5 +1,7 @@
 # irs
-Windows Tool
+IRS V1 Windows Tool
+
+
 Türkçe:
 bu sürümde bir resim dosyasının içine metin dosyası saklayabilmenize olanak sağlıyor ve bunu yaparken resim dosyasının formatını bozmadığı için hem resim normal biçimde çalışıyor hemde içine metin karakterleri enjekte ediliyor bu sayede resim dosyalarının içine istediğiniz herşeyi saklayabilirsiniz
 
